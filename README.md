@@ -57,3 +57,5 @@ npm install
 ```
 npm run serve
 ```
+
+Access the url via browser - http://localhost:8080/ 
